@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-namespace _6lab
+namespace ekzamen
 {
    //task 1; 
 
